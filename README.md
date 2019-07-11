@@ -19,3 +19,5 @@ PS:
 and this will improve the code quality!
 2. You can apply this tactic to solve simple images like this. This model will brutally fail if used in facial images. 
 Reason: Since I have used average RGB of the surroundings, so it works on simple images like sky or any forest etc.
+
+https://www.kaggle.com/general/99432
